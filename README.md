@@ -41,4 +41,6 @@ sh upload_file.sh {bucket-created-in-the-first-step}
 
 ### Sample of the result
 
+The output of the last step answers about the hottest day:
+
 ![Execution result](/images/answer.jpg)
